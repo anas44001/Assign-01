@@ -1,3 +1,5 @@
+
+
 /* top */
 
 .navba {
@@ -17,20 +19,28 @@
     align-items: center;
 }
 
-button {
+.btn{
     width: 132px;
     height: 48px;
+    background-color: #4E47FF;
     border-radius: 10px;
-    padding: 12px 36px;
-    background-color: rgba(78, 71, 255, 1);
-    border: 1px;
-    
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
+}
 
+
+
+
+.logo{
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  color: #4E47FF;
+  font-size: 34px;
 }
-.primary :hover{
-    background-color:#4E47FF;
-    box-shadow:rgb(0,0,0.12);
-}
+
+
+
 
 /* cool dark */
 .cool {
@@ -40,7 +50,15 @@ button {
     padding-right: 267.5px;
     padding-bottom: 221px;
 }
-
+.bttn{
+     width: 152px;
+    height: 48px;
+    background-color: #4E47FF;
+    border-radius: 10px;
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
+}
 .dark {
    margin: 0 auto;
     align-items: center;
@@ -58,16 +76,7 @@ button {
 }
 
 /* 3rd */
-.primary-launch {
-    margin: 0 auto;
-    width: 157px;
-    height: 24px;
-    border-radius: 10px;
-    padding: 12px 36px;
-    background-color: #4E47FF;
-    padding: 36px 12px;
-    border: 1px;
-}
+
 
 .mini {
     border-radius: 40px;
@@ -221,25 +230,38 @@ h4 {
     text-align: right;
 }
 
+.box{
+    width: 497px;
+    height: 70px;
+    border-radius: 5px;
+}
+.boxer{
+    width: 497px;
+    height: 135px;
+    border-radius: 5px;
+}
 .lets {
-    font-size: 87px;
+    font-size: 77px;
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
 }
 
 .Get {
-    width: 497px;
+    width: 510px;
     height: 62px;
     border-radius: 10px;
     background-color: rgba(78, 71, 255, 1);
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
 }
 
 .fill {
     padding-top: 92.23px;
     padding-left: 100px;
     padding-right: 100px;
-
+   
 }
 .text {
     width: 497px;
